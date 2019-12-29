@@ -27,7 +27,6 @@ This Zip Archive consists of :
 2) ML model training notebooks or scripts under “notebook” folder (KNN.py , DecisionTree.py
 ,RandomForest.py, xgBoost.py)
 3) ML models under “models” folder
-4) Assignment 2 Model Report
 
 Procedure to Test the Server :
 As we are using Ngrok service coupled with Python Flask to host our server, it will change the URL every 8 hours. Please let us know when you will be testing the assignment as we need to keep our services running during that time and we’ll update the Service URL in the provided excel sheet.
