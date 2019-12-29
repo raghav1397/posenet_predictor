@@ -12,6 +12,7 @@ From the CSV data given to us, we performed data processing and removed the colu
 DATA PRUNING:
 We pruned the dataset to obtain only the relevant features to predict the required label.
 Following are the list of features we considered to train and test the model:
+
 • Left shoulder
 • Right shoulder
 • Left Elbow
